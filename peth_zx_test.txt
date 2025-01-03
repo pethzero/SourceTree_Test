@@ -4,5 +4,3 @@ ABC
 V.1 ABC 
 
 V.1 FIX update
-
-FORD ABC
